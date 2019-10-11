@@ -1,2 +1,2 @@
 # Smart-Monitoring-System
-A smart monitoring system that can monitor a room
+A system of smart monitoring devices that can monitor a room
