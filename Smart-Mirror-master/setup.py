@@ -30,3 +30,4 @@ setup(
     install_requires=packages,
     packages=find_packages(),
 )
+end
